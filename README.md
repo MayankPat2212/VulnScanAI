@@ -105,12 +105,6 @@ This tool is for **educational and authorized testing purposes only**. Unauthori
 
 ---
 
-## 📜 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 ## 🧑‍💻 Contributing
 
 Contributions are welcome! Fork the repo and submit a pull request.
